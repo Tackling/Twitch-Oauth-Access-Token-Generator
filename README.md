@@ -1,6 +1,6 @@
 # Twitch API OAuth Token Generator
 
-This is a Python program that generates an OAuth access token for the Twitch API using client credentials authentication.
+This is a Python program that generates an OAuth access token also known as "access token" for the Twitch API using client credentials authentication.
 
 ## Requirements
 
